@@ -1,0 +1,52 @@
+
+
+[
+    {
+        "id": 1,
+        "name": "French Fries",
+        "price": 90,
+        "img":"https://www.recipetineats.com/wp-content/uploads/2022/09/Fries-with-rosemary-salt_1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Nuggets",
+        "price": 110,
+        "img":"https://publish.purewow.net/wp-content/uploads/sites/2/2020/11/fancy-chicken-nuggets-coconut-popcorn-chicken-with-sweet-thai-chili-lime-sauce-recipe.jpg?fit=728%2C921"
+    },
+    {
+        "id": 3,
+        "name": "Burger",
+        "price": 120,
+        "img":"https://img.freepik.com/free-photo/delicious-burger-with-fresh-ingredients_23-2150857908.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Pizza",
+        "price": 220,
+        "img":"https://img.freepik.com/free-photo/large-mixed-pizza-with-meat_140725-1274.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Sandwich",
+        "price": 110,
+        "img":"https://www.licious.in/blog/wp-content/uploads/2020/12/Grilled-Chicken-Sandwich-600x600.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Hot Dog",
+        "price": 80,
+        "img":"https://media.istockphoto.com/id/1834960938/photo/homemade-hot-dogs-with-sausage-green-salad-cucumber-and-red-onion-on-the-grey-background-top.webp?b=1&s=170667a&w=0&k=20&c=hlI4njVVueM2QbHe7FNrpl7--5OHNmutc8pz_UNvSiA="
+    },
+    {
+        "id": 7,
+        "name": "Chicken Burger",
+        "price": 180,
+        "img":"https://www.recipetineats.com/wp-content/uploads/2023/09/Crispy-fried-chicken-burgers_5.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Chicken Pizza",
+        "price": 320,
+        "img":"https://foodal.com/wp-content/uploads/2019/10/Pizza-with-Barbecue-Chicken-Cilantro-and-Red-Onion.jpg"
+    }
+]

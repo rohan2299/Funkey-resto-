@@ -1,0 +1,75 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('https://images.alphacoders.com/134/1342802.png');
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.login {
+    background-color: rgba(0, 0, 0, 0.395);
+    padding: 80px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(255, 68, 0, 0.518);
+    max-width: 400px;
+    width: 100%;
+}
+
+h2 {
+    text-align: center;
+    color: white;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+    color: white;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    background-color: transparent;
+    border-radius: 5px;
+    border: 1px solid rgb(255, 255, 255);
+    color: white;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    margin-left: 12px;
+    border: none;
+    background-color: orangered;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    
+}
+
+button:hover {
+    background-color: green;
+}
+
+.reg {
+    color: white;
+    text-align: center;
+    margin-top: 10%;
+}
+
+.reg a {
+    text-decoration: none;
+    color: orangered;
+}
+
+.reg a:hover {
+    text-decoration: underline;
+}
